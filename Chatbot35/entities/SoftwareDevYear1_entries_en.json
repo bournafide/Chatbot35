@@ -1,0 +1,90 @@
+[
+  {
+    "value": "Applied Communication",
+    "synonyms": [
+      "Applied Communication",
+      "COMM501 Applied Communication",
+      "COMM501"
+    ]
+  },
+  {
+    "value": "Programming 1",
+    "synonyms": [
+      "Programming 1",
+      "COMP500 Programming 1",
+      "COMP500"
+    ]
+  },
+  {
+    "value": "Computing Technology in Society",
+    "synonyms": [
+      "Computing Technology in Society",
+      "COMP501 Computing Technology in Society",
+      "COMP501"
+    ]
+  },
+  {
+    "value": "Foundations of IT Infrastructure",
+    "synonyms": [
+      "Foundations of IT Infrastructure",
+      "COMP502 Foundations of IT Infrastructure",
+      "COMP502"
+    ]
+  },
+  {
+    "value": "Programming 2",
+    "synonyms": [
+      "Programming 2",
+      "COMP503 Programming 2",
+      "COMP503"
+    ]
+  },
+  {
+    "value": "Computer Network Principles",
+    "synonyms": [
+      "Computer Network Principles",
+      "ENEL504 Computer Network Principles",
+      "ENEL504"
+    ]
+  },
+  {
+    "value": "Enterprise Systems",
+    "synonyms": [
+      "Enterprise Systems",
+      "INFS500 Enterprise Systems",
+      "INFS500"
+    ]
+  },
+  {
+    "value": "Mathematical Concepts",
+    "synonyms": [
+      "Mathematical Concepts",
+      "MATH500 Mathematical Concepts",
+      "MATH500"
+    ]
+  },
+  {
+    "value": "Differential and Integral Calculus",
+    "synonyms": [
+      "Differential and Integral Calculus",
+      "MATH501 Differential and Integral Calculus",
+      "MATH501"
+    ]
+  },
+  {
+    "value": "Algebra and Discrete Mathematics",
+    "synonyms": [
+      "Algebra and Discrete Mathematics",
+      "MATH502 Algebra and Discrete Mathematics",
+      "MATH502"
+    ]
+  },
+  {
+    "value": "Applied Statistics",
+    "synonyms": [
+      "Applied Statistics",
+      "STAT500 Applied Statistics",
+      "STAT500"
+    ]
+  }
+]

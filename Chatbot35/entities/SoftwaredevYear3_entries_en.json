@@ -1,0 +1,51 @@
+[
+  {
+    "value": "Research and Development Project",
+    "synonyms": [
+      "Research and Development Project",
+      "COMP704 Research and Development Project",
+      "COMP704",
+      "RND",
+      "R\u0026D",
+      "R and D"
+    ]
+  },
+  {
+    "value": "Applied Human Computer",
+    "synonyms": [
+      "Applied Human Computer",
+      "COMP719 Applied Human Computer",
+      "COMP719",
+      "AHC"
+    ]
+  },
+  {
+    "value": "Contemporary Methods in Software Engineering",
+    "synonyms": [
+      "Contemporary Methods in Software Engineering",
+      "ENSE701 Contemporary Methods in Software Engineering",
+      "ENSE701",
+      "Software Engineering",
+      "SE"
+    ]
+  },
+  {
+    "value": "Distributed and Mobile Systems",
+    "synonyms": [
+      "Distributed and Mobile Systems",
+      "COMP713 Distributed and Mobile Systems",
+      "COMP713",
+      "DMS"
+    ]
+  },
+  {
+    "value": "Web Development",
+    "synonyms": [
+      "Web Development",
+      "COMP721 Web Development",
+      "COMP721",
+      "Web Dev",
+      "Webdev"
+    ]
+  }
+]
