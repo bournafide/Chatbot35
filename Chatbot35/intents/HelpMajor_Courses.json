@@ -1,0 +1,28 @@
+{
+  "id": "e40dcf2d-7da4-45ab-858e-1ac43a065ea5",
+  "name": "HelpMajor/Courses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I, Chatbot35 can assist you with the Bachelor of Computer and Information Sciences (BCIS) course at AUT. Currently, I can only assist on papers regarding the Software Development Major. Feel free to ask me a question about the Software Development papers!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527397491,
+  "fallbackIntent": false,
+  "events": []
+}

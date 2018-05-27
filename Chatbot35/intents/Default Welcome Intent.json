@@ -14,10 +14,10 @@
           "type": 0,
           "lang": "en",
           "speech": [
-            "Hi!",
-            "Hello!",
-            "Good day!",
-            "Greetings!"
+            "Hi! I\u0027m Chatbot35, I can help you with AUT software development courses.",
+            "Hello! I\u0027m Chatbot35, I can help you with AUT software development courses.",
+            "Good day! I\u0027m Chatbot35, I can help you with AUT software development courses.",
+            "Greetings! I\u0027m Chatbot35, I can help you with AUT software development courses."
           ]
         }
       ],
@@ -28,6 +28,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
+  "lastUpdate": 1527300869,
   "fallbackIntent": false,
   "events": [
     {

@@ -1,0 +1,28 @@
+{
+  "id": "7795fa2f-df2c-4db5-ab16-d9d563d5aa2d",
+  "name": "RecommendMajor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "As I was created by Software Development majors, I would like to recommend the Software Development Major."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527403131,
+  "fallbackIntent": false,
+  "events": []
+}

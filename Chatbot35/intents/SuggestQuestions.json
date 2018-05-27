@@ -1,0 +1,28 @@
+{
+  "id": "9696be43-2179-42e0-a54c-4cd5f977a063",
+  "name": "SuggestQuestions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sure thing. Here are some questions other people asked about:\n•\tWhat are the pre-requisites and co-requisites for \u003ca specific paper\u003e?\n•\tWhat would be a suggested set of papers for a \u003cthe software  dev  major in the BCIS \u003e?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527402723,
+  "fallbackIntent": false,
+  "events": []
+}

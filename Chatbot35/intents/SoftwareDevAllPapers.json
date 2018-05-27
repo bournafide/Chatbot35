@@ -1,0 +1,28 @@
+{
+  "id": "f12ec0d2-2bec-44c3-8f62-338f9f312cb9",
+  "name": "SoftwareDevAllPapers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Currently, Bachelor of Computer and Information Sciences (BCIS) is a three-year course and a total of 360 points to graduate. For the Software Development Major, the first year requires you to complete eight papers. \n\nThe first seven are:\n•\tCOMM501 Applied Communication (15 points)\n•\tCOMP500 Programming 1 (15 points)\n•\tCOMP501 Computing Technology in Society (15 points) \n•\tCOMP502 Foundations of IT Infrastructure (15 points)\n•\tCOMP503 Programming 2 (15 points)\n•\tENEL504 Computer Network Principles (15 points)\n•\tINFS500 Enterprise Systems (15 points)\nAnd you get to choose the last paper from these four:\n•\tMATH500 Mathematical Concepts (15 points)\n•\tMATH501 Differential and Integral Calculus (15 points)\n•\tMATH502 Algebra and Discrete Mathematics (15 points) \n•\tSTAT500 Applied Statistics (15 points)\n\nFor the second year there are only six required papers, the first five are:\n•\tCOMP600 IT Project Management (15 points)\n•\tCOMP602 Software Development Practice (15 points)\n•\tCOMP603 Program Design and Construction (15 points) \n•\tINFS600 Data and Process Modelling (15 points)\n•\tINFS601 Logical Database Design (15 points)\nAnd you get to choose the last paper from these two:\n•\tCOMP604 Operating Systems (15 points)\n•\tINFS602 Physical Database Design (15 points)\nIt’s also recommended to choose an additional two papers (30 points) from other Bachelor of Computer and Information Sciences papers (subject to meeting prerequisites).\n\nAs for year three, there’s only four papers required. The first three are:\n•\tCOMP704 Research and Development Project (30 points) (two semesters!)\n•\tCOMP719 Applied Human Computer (15 points)\n•\tENSE701 Contemporary Methods in Software Engineering (15 points)\nAnd you get to choose the last paper from these two:\n•\tCOMP713 Distributed and Mobile Systems (15 points)\n•\tCOMP721 Web Development (15 points)\nIt’s also recommended to choose an additional three papers (45 points) from other Bachelor of Computer and Information Sciences papers (subject to meeting prerequisites)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527403270,
+  "fallbackIntent": false,
+  "events": []
+}

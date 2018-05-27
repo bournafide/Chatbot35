@@ -1,0 +1,28 @@
+{
+  "id": "5362b8de-cb63-45f7-a791-e69b33363abb",
+  "name": "Pre/CorequisitesYear1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "As that is a first-year paper, there are no prerequisites for that paper. You can do it whenever you want! As for corequisites (including the one you asked about), there are eight in the first year:\n•\tCOMM501 Applied Communication (15 points)\n•\tCOMP500 Programming 1 (15 points)\n•\tCOMP501 Computing Technology in Society (15 points) \n•\tCOMP502 Foundations of IT Infrastructure (15 points)\n•\tCOMP503 Programming 2 (15 points)\n•\tENEL504 Computer Network Principles (15 points)\n•\tINFS500 Enterprise Systems (15 points)\n\nAnd you get to choose the last paper from these four:\n•\tMATH500 Mathematical Concepts (15 points)\n•\tMATH501 Differential and Integral Calculus (15 points)\n•\tMATH502 Algebra and Discrete Mathematics (15 points) \n•\tSTAT500 Applied Statistics (15 points)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527400571,
+  "fallbackIntent": false,
+  "events": []
+}

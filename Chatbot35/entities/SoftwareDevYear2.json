@@ -3,5 +3,5 @@
   "name": "SoftwareDevYear2",
   "isOverridable": true,
   "isEnum": false,
-  "automatedExpansion": false
+  "automatedExpansion": true
 }

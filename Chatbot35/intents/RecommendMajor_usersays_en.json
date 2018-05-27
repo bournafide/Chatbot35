@@ -1,0 +1,50 @@
+[
+  {
+    "id": "976e4a47-4291-47c8-abea-9076447b3393",
+    "data": [
+      {
+        "text": "Can you help me choose a major?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527403131
+  },
+  {
+    "id": "33bc43e3-0865-4177-ae02-05ea04c125e6",
+    "data": [
+      {
+        "text": "What major should i choose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527403131
+  },
+  {
+    "id": "9a59bcfe-9b05-494e-bc02-67999ed9ebc6",
+    "data": [
+      {
+        "text": "What\u0027s the best major?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527403131
+  },
+  {
+    "id": "d2e7d4bc-8a74-4e8c-8e29-bc15b8cb0d19",
+    "data": [
+      {
+        "text": "What major do you recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527403131
+  }
+]

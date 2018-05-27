@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c347400c-2540-4ff9-8cba-a7c2c4f2e73b",
+    "data": [
+      {
+        "text": "What did other people ask about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402723
+  },
+  {
+    "id": "c75ea73b-cf7d-4b8a-b10f-c4c702cf8957",
+    "data": [
+      {
+        "text": "What are some frequently asked questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402723
+  },
+  {
+    "id": "2a953891-2fec-4eee-9e3f-50fa0f6fcde3",
+    "data": [
+      {
+        "text": "What questions are searched the most?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402596
+  },
+  {
+    "id": "816a7e87-46b1-4ee7-ada9-cff94932374b",
+    "data": [
+      {
+        "text": "What are some frequent questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402596
+  },
+  {
+    "id": "7c14ee2d-6fc3-4c5a-8803-4b64d16cf680",
+    "data": [
+      {
+        "text": "What questions can i ask you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402596
+  },
+  {
+    "id": "28b8ed67-fc65-436c-9978-0d3013acb9e2",
+    "data": [
+      {
+        "text": "Can you suggest me some questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527402596
+  }
+]

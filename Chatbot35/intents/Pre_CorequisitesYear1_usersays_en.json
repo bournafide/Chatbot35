@@ -1,0 +1,86 @@
+[
+  {
+    "id": "bef2800f-71d5-4371-a2ae-ab5435d0fdaf",
+    "data": [
+      {
+        "text": "What is required for @SoftwareDevYear1?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527400571
+  },
+  {
+    "id": "cf19bed7-4eca-49eb-9063-5cddfab6e5fb",
+    "data": [
+      {
+        "text": "What are the corequisites for @SoftwareDevYear1?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527400571
+  },
+  {
+    "id": "76a5bf75-4ed4-444d-b505-c4e572593dc1",
+    "data": [
+      {
+        "text": "What are the prerequisites for @SoftwareDevYear1?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527400571
+  },
+  {
+    "id": "f28d7500-8bd8-47bb-aaf0-508e1d282ff7",
+    "data": [
+      {
+        "text": "What do i need for @SoftwareDevYear1?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527400571
+  },
+  {
+    "id": "a6e25d73-f437-44c7-a640-4b152dc8450b",
+    "data": [
+      {
+        "text": "What are the prerequisites/corequisites for @SoftwareDevYear1?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527400571
+  },
+  {
+    "id": "07ea8dae-cc2c-47fa-a8af-e39c73a540ca",
+    "data": [
+      {
+        "text": "What are the prerequisites and corequisites for @SoftwareDevYear1?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527400571
+  },
+  {
+    "id": "3853266c-5648-484d-8ac8-f41968807717",
+    "data": [
+      {
+        "text": "What are the pre-requisites and co-requisites for @SoftwareDevYear1?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527400571
+  }
+]

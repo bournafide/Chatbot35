@@ -1,0 +1,28 @@
+{
+  "id": "4ae127d1-cc8a-4b2a-a11a-627122e6fe22",
+  "name": "Pre/CorequisitesYear2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "As that is a second-year paper, the prerequisites for that paper, are all of the first-year papers. Which are eight in total, the first seven are:\n•\tCOMM501 Applied Communication (15 points)\n•\tCOMP500 Programming 1 (15 points)\n•\tCOMP501 Computing Technology in Society (15 points) \n•\tCOMP502 Foundations of IT Infrastructure (15 points)\n•\tCOMP503 Programming 2 (15 points)\n•\tENEL504 Computer Network Principles (15 points)\n•\tINFS500 Enterprise Systems (15 points)\n\nAnd you get to choose the last paper from these four:\n\n•\tMATH500 Mathematical Concepts (15 points)\n•\tMATH501 Differential and Integral Calculus (15 points)\n•\tMATH502 Algebra and Discrete Mathematics (15 points) \n•\tSTAT500 Applied Statistics (15 points)\n\nAs for corequisites (including the one you asked about), there are six required papers, the first five are:\n•\tCOMP600 IT Project Management (15 points)\n•\tCOMP602 Software Development Practice (15 points)\n•\tCOMP603 Program Design and Construction (15 points) \n•\tINFS600 Data and Process Modelling (15 points)\n•\tINFS601 Logical Database Design (15 points)\n\nAnd you get to choose the last paper from these two:\n\n•\tCOMP604 Operating Systems (15 points)\n•\tINFS602 Physical Database Design (15 points)\n\nIt’s also recommended to choose an additional two papers (30 points) from other Bachelor of Computer and Information Sciences papers (subject to meeting prerequisites)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527401643,
+  "fallbackIntent": false,
+  "events": []
+}

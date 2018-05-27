@@ -1,0 +1,170 @@
+[
+  {
+    "id": "971dc8d6-d175-40b6-afba-933682538dc4",
+    "data": [
+      {
+        "text": "What would be a recommended set of papers for ",
+        "userDefined": false
+      },
+      {
+        "text": "software development",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527403270
+  },
+  {
+    "id": "9aba9329-f9e2-4c2f-b942-d031b507876a",
+    "data": [
+      {
+        "text": "What would be a suggested set of papers for a ",
+        "userDefined": false
+      },
+      {
+        "text": "software development",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527403270
+  },
+  {
+    "id": "503e808e-94b7-4124-8768-c2edd29a0da6",
+    "data": [
+      {
+        "text": "What papers are required for ",
+        "userDefined": false
+      },
+      {
+        "text": "BCIS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527399123
+  },
+  {
+    "id": "be1660a4-0092-497d-88cd-dcae5bc2ff9d",
+    "data": [
+      {
+        "text": "What papers are required for ",
+        "userDefined": false
+      },
+      {
+        "text": "software development",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527399123
+  },
+  {
+    "id": "f11e1e48-7c39-45e5-a9c9-d0ff8d5b17c9",
+    "data": [
+      {
+        "text": "What papers do I need for ",
+        "userDefined": false
+      },
+      {
+        "text": "BCIS",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527399123
+  },
+  {
+    "id": "62646099-e847-4896-96c2-f3ffb4c0fa71",
+    "data": [
+      {
+        "text": "What papers do I need for ",
+        "userDefined": false
+      },
+      {
+        "text": "SD",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527399123
+  },
+  {
+    "id": "67094f0b-1e28-4a99-b057-df58b1c20699",
+    "data": [
+      {
+        "text": "What papers do I need for ",
+        "userDefined": false
+      },
+      {
+        "text": "software dev",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527399123
+  },
+  {
+    "id": "54d22373-c276-4e8a-972b-e174a21c3074",
+    "data": [
+      {
+        "text": "What papers do I need for ",
+        "userDefined": false
+      },
+      {
+        "text": "software development",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527399123
+  }
+]

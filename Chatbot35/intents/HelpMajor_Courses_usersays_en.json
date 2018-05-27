@@ -1,0 +1,73 @@
+[
+  {
+    "id": "395d21b6-1675-4733-b719-26d11b6bb1b3",
+    "data": [
+      {
+        "text": "What majors and courses can you help me with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527397471
+  },
+  {
+    "id": "74309ed2-1c4c-4cd9-8369-4b9c416a3a3f",
+    "data": [
+      {
+        "text": "What majors can you help me with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527397471
+  },
+  {
+    "id": "e6acf31c-baae-4de9-841e-3bdd98b99c80",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " can you help me with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527397471
+  },
+  {
+    "id": "00117318-97d4-4cc3-a2b5-a6eaa92af894",
+    "data": [
+      {
+        "text": "Can you help me with a ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "major?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527397471
+  }
+]
